@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NuzlockeTracker<br>🌱 I’m currently learning about Web Development
+🔭 I’m currently working on movie-tvshow-review-app<br>🌱 I’m currently learning about PyQT6
 
 
 ## 🌐 Socials:
