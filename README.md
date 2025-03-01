@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on movie-tvshow-review-app and ccc151-ssis-v1<br>🌱 I’m currently learning about PyQT6
+🔭 I’m currently working on movie-tvshow-review-app<br>🌱 I’m currently learning about PyQT6
 
 
 ## 🌐 Socials:
