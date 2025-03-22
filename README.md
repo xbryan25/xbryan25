@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on movie-tvshow-review-app<br>🌱 I’m currently learning about PyQT6, TailwindCSS, and React
+🔭 I’m currently working on movie-tvshow-review-app, and ccc151-ssis-v2<br>🌱 I’m currently learning about PyQT6, TailwindCSS, and React
 
 
 ## 🌐 Socials:
