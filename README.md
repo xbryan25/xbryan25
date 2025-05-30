@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on movie-tvshow-review-app, and hotel-management-system<br>🌱 I’m currently learning about PyQT6, TailwindCSS, and React
+🔭 I’m currently not working on any project<br>🌱 I’m currently learning about TailwindCSS, Typescript, and Vue.js
 
 
 ## 🌐 Socials:
