@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently not working on any project<br>🌱 I’m currently learning about TailwindCSS, Typescript, and Vue.js
+🔭 I’m currently not working on any project<br>🌱 I’m currently learning about TailwindCSS, Typescript, Vue.js and Flask
 
 
 ## 🌐 Socials:
