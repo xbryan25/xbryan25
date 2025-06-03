@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently not working on any project<br>🌱 I’m currently learning about TailwindCSS, Typescript, Vue.js and Flask
+🔭 I’m currently working on Litlist, a full stack web application made using Vue and Flask<br>🌱 I’m currently learning about TailwindCSS, Typescript, Vue.js and Flask
 
 
 ## 🌐 Socials:
