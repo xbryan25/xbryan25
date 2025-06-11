@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LitList, a full stack web application made using Vue and Flask<br>🌱 I’m currently learning about TailwindCSS, Typescript, Vue.js and Flask
+🔭 I’m currently working on PawPal, a full stack web application made using Vue and Flask<br>🌱 I’m currently learning about TailwindCSS, DaisyUI, Typescript, Vue.js and Flask
 
 
 ## 🌐 Socials:
