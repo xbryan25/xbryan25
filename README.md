@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ccc181-web-ssis and Libris, both full stack web applications made using Nuxt and Flask<br>🌱 I’m currently learning about React, NextJS, and ShadCN
+🔭 I’m currently working on Libris, a full stack web application made using Nuxt and Flask<br>🌱 I’m currently learning about React, NextJS, and ShadCN
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fb.com/bryanaganp25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bryan-agan-42ba0b202/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@bryan.agan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bryanaganp25@gmail.com) 
